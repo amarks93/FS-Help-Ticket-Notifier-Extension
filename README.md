@@ -1,7 +1,7 @@
 ## How To Install
 
-### Chrome
-##### [Step-By-Step with Photos](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
+<h3> Chrome </h3>
+<span>[Step-By-Step with Photos](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)<span>
 1. Clone this repo
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Click on the "Load unpacked" button.
