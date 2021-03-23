@@ -1,7 +1,6 @@
 ## Contributions/Disclaimer 
 The helpTicketNotifier file was provided by a Fullstack employee. Many thanks to that employee for making work easier.
-\
-\
+
 
 
 ## How To Install
