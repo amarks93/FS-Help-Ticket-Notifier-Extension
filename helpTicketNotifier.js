@@ -20,17 +20,17 @@ let messages,
     "position: absolute; width: 300px; height: 300px; top: 35%; margin-top: -100px; left: 40px; object-fit: cover; z-index: 999");
 
     let listenButton = document.createElement("button");
-(listenButton.innerText = "Start Listening"),
-  (listenButton.style.cssText =
-    "position: fixed; width: 200px; height: 50px; right: 90px; bottom: 26px; background-color: #66d193; text-align: center; color: #fff; font-size: 0.9rem; font-weight: 600; border-radius: 100px; border-width: 0px; outline: none; z-index: 999"),
-  (listenButton.onclick = () => {
-    start();
-  });
+    listenButton.innerText = "Start Listening";
+    listenButton.style.cssText =
+    "position: fixed; width: 200px; height: 50px; right: 90px; bottom: 54px; background-color: #66d193; text-align: center; color: #fff; font-size: 0.9rem; font-weight: 600; border-radius: 100px; border-width: 0px; outline: none; z-index: 999;";
+    listenButton.onclick = () => {
+      start();
+    };
 
   let stopListenButton = document.createElement("button");
 (stopListenButton.innerText = "Stop Listening"),
   (stopListenButton.style.cssText =
-    "position: fixed; width: 200px; height: 50px; right: 90px; bottom: 26px; background-color: #d68989; text-align: center; color: #fff; font-size: 0.9rem; font-weight: 600; border-radius: 100px; border-width: 0px; outline: none; z-index: 999"),
+    "position: fixed; width: 200px; height: 50px; right: 90px; bottom: 54px; background-color: #d68989; text-align: center; color: #fff; font-size: 0.9rem; font-weight: 600; border-radius: 100px; border-width: 0px; outline: none; z-index: 999"),
   (stopListenButton.onclick = () => {
     stop();
   });
