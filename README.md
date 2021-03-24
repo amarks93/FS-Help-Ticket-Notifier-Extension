@@ -14,7 +14,7 @@ The helpTicketNotifier file was provided by a Fullstack employee. Many thanks to
 5. The extension does not need to be visible, as it will run automatically when the tab"s URL matches your organization's Learndot.
 
 ### Firefox 
-##### [Step-By-Step Instructions](https://extensionworkshop.com/documentation/publish/distribute-sideloading/#install-addon-from-file)
+##### [Step-By-Step with Photos](https://extensionworkshop.com/documentation/publish/distribute-sideloading/#install-addon-from-file)
 1. Clone this repo
 2. Go to `about:addons` in your Firefox browser.
 3. Click the gear icon next to the "Manage Your Extensions" title.
