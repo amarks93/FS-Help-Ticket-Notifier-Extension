@@ -8,7 +8,7 @@ The helpTicketNotifier file was provided by a Fullstack employee. Many thanks to
 
 ### Chrome
 ##### [Step-By-Step with Photos](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
-1. Clone this repo
+1. Fork and clone this repo
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Click on the "Load unpacked" button.
 4. When the "select file" menu pops up, navigate to the repo and click "Open".
@@ -16,7 +16,7 @@ The helpTicketNotifier file was provided by a Fullstack employee. Many thanks to
 
 ### Firefox 
 ##### [Step-By-Step with Photos](https://extensionworkshop.com/documentation/publish/distribute-sideloading/#install-addon-from-file)
-1. Clone this repo
+1. Fork and clone this repo
 2. Go to `about:addons` in your Firefox browser.
 3. Click the gear icon next to the "Manage Your Extensions" title.
 4. Click "Install Add-on From File".
